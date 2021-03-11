@@ -1,0 +1,10 @@
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\bin\Debug\BrickGame.exe.config
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\bin\Debug\BrickGame.exe
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\bin\Debug\BrickGame.pdb
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\obj\Debug\BrickGame.csprojAssemblyReference.cache
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\obj\Debug\BrickGame.Form1.resources
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\obj\Debug\BrickGame.Properties.Resources.resources
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.GenerateResource.cache
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.CoreCompileInputs.cache
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\obj\Debug\BrickGame.exe
+C:\Users\RachelGebyanesh Adgo\source\repos\BrickGame\BrickGame\obj\Debug\BrickGame.pdb
